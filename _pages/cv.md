@@ -60,7 +60,7 @@ Skills
 * Sql
 * Excel
 * R
-* Photo Shop
+* Photoshop
 
 <!-- Publications
 ======
