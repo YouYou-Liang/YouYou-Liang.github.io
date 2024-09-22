@@ -15,8 +15,8 @@ You-You Liang
 
 Education
 ======
-* M.S. in School of Journalism & Communication, Nanjing University, 2024-2027
-* B.S. in School of Journalism & Communication, Nanjing University, 2020-2024
+* M.A. in School of Journalism & Communication, Nanjing University, 2024-2027
+* B.A. in School of Journalism & Communication, Nanjing University, 2020-2024
 
 Awards
 ======
@@ -36,17 +36,17 @@ Work experience
   * Duties: Intern reporter
 
 
-Awards
+<!-- Awards
 ======
 * Outstanding Graduates (2024)
 * National Encouragement scholarship (2023)
 * Excellent League Member (2023)
 * National Encouragement scholarship (2022)
-* People's scholarship (2021)
+* People's scholarship (2021) -->
 
 Working Papers
 ======
-* Will Novelty Disrupt or Extend Communication Research? An Innovation Analysis of Web of Science Papers from 1970-2020
+* Youyou Liang, Lihan Yan, Cheng-Jun Wang * (2024) Will Novelty Disrupt or Extend Communication Research? An Innovation Analysis of Web of Science Papers from 1970-2020
 
 
 <!-- * Summer 2015: Research Assistant
@@ -54,14 +54,13 @@ Working Papers
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
-<!-- Skills
+Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Python
+* Sql
+* Excel
+* R
+* Photo Shop
 
 <!-- Publications
 ======
