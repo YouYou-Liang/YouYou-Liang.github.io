@@ -45,14 +45,25 @@ How to edit your site's GitHub repository
 
 我是南京大学新闻与传播学院硕士研究生，我的研究兴趣是文献计量学与传播学的交叉方向。
 
+关于我
+======
+
 在专业学习上，我充分锻炼了数据分析能力，能够运用Python、R进行网络分析、机器学习、回归分析等开展科研工作。我平时也自学了SQL。
 
+在性格方面，我开朗随和。做事细心、负责、抗压能力强，能多线推进任务。
+
+实践
+======
+
 在工作经验方面，我曾在携程负责内容营销工作，参与6期IP活动、节点大促的内容策划，持续运营6个社媒的包车游官方账号，定期分析商家社区运营数据和对商培训数据，分析和分享优秀案例。
+
 我也曾在江苏广电我苏网、四川画报等官媒做实习记者，具备良好的信息敏锐度，文字写作与编辑水平，多篇推送达到1w+的阅读量，策划完成了10余个动态海报。
 
-在性格方面，我开朗随和。做事细心、负责、抗压能力强，能多线推进任务。
+兴趣爱好
+======
+我喜欢看影视作品，撸猫猫狗狗。
 
 <!-- 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. --> -->
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. --> 
