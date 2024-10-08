@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "梁悠悠现为南京大学新闻与传播学院硕士研究生，师从王成军博士。她的研究兴趣是文献计量学与传播学的交叉学科。她使用各种计算方法（如网络分析、文本挖掘、词嵌入模型和引文分析）来研究传播学的创新发展以及该学科在科学领域中的地位。"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
@@ -41,11 +41,18 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 How to edit your site's GitHub repository
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<!-- Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.  -->
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+我是南京大学新闻与传播学院硕士研究生，我的研究兴趣是文献计量学与传播学的交叉方向。
 
+在专业学习上，我充分锻炼了数据分析能力，能够运用Python、R进行网络分析、机器学习、回归分析等开展科研工作。我平时也自学了SQL。
+
+在工作经验方面，我曾在携程负责内容营销工作，参与6期IP活动、节点大促的内容策划，持续运营6个社媒的包车游官方账号，定期分析商家社区运营数据和对商培训数据，分析和分享优秀案例。
+我也曾在江苏广电我苏网、四川画报等官媒做实习记者，具备良好的信息敏锐度，文字写作与编辑水平，多篇推送达到1w+的阅读量，策划完成了10余个动态海报。
+
+在性格方面，我开朗随和。做事细心、负责、抗压能力强，能多线推进任务。
+
+<!-- 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. --> -->
