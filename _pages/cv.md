@@ -13,7 +13,9 @@ redirect_from:
 ======
 我是南京大学新闻与传播学院硕士研究生，师从王成军教授。我的研究兴趣是探索传播学的文献计量特征。我擅长使用各种计算方法（如网络分析、文本挖掘、词嵌入模型和引文分析）来研究传播学的创新发展以及该学科在科学领域中的地位。
 
-![Meme](/images/meme.png)
+<div style="text-align: center;">
+  <img src="/images/meme.png" alt="Meme" style="height: 50%; width: auto;;">
+</div>
 
 
 教育经历
