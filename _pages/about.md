@@ -53,7 +53,7 @@ Education
 
 Awards
 ======
-* Graduate Student First Class Scholarship
+* Graduate Student First Class Scholarship (2024)
 * Outstanding Graduates (2024)
 * National Encouragement scholarship (2023)
 * Excellent League Member (2023)
@@ -79,9 +79,14 @@ Work experience
 * National Encouragement scholarship (2022)
 * People's scholarship (2021) -->
 
-Working Papers
+Conference Paper
 ======
-* Youyou Liang, Lihan Yan, Cheng-Jun Wang * (2024) Will Novelty Disrupt or Extend Communication Research? An Innovation Analysis of Web of Science Papers from 1970-2020
+* You-You Liang, Lihan Yan, Cheng-Jun Wang * (2025) Novelty Leads to Disruption or Continuity? Evidence from Communication Research (1970-2020) using the Web of Science Database.ICA 2025, Denver, USA.
+
+Working Paper
+======
+* You-You Liang, Lihan Yan, Cheng-Jun Wang * (2025) The role of books in the flow of knowledge in communication has become less important?
+* You-You Liang, Xue-Fei Yan, Cheng-Jun Wang * (2025) Ups and Downs of Happiness:The Dynamic Effects of Phone and Computer Use on Employee Happiness.
 
 
 <!-- * Summer 2015: Research Assistant
@@ -95,6 +100,7 @@ Skills
 * Sql
 * Excel
 * R
+* Stata
 * Photoshop
 
 <!-- Publications
