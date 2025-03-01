@@ -46,13 +46,15 @@ How to edit your site's GitHub repository
 Liang Youyou is currently a master student  in the School of Journalism and Communication, Nanjing University, under the supervision of Dr. Cheng-Jun Wang. Her research interests is to explore the bibliometric characteristics of communication. She uses various computational methods (such as network analysis, text mining, word embedding models, and citation analysis) to examine the innovative development of communication and the position of the discipline in the scientific field.
 
 <div style="text-align: center;">
-  <img src="/images/meme.png" alt="Meme" style="max-width: 50%; height: auto;">
+  <img src="/images/meme.png" alt="Meme" style="max-width: 55%; height: auto;">
 </div>
+
 
 Education
 ======
 * M.A. in School of Journalism & Communication, Nanjing University, 2024-2027
 * B.A. in School of Journalism & Communication, Nanjing University, 2020-2024
+
 
 Awards
 ======
@@ -89,6 +91,7 @@ Conference Paper
 Working Paper
 ======
 * You-You Liang, Lihan Yan, Cheng-Jun Wang * (2025) The role of books in the flow of knowledge in communication has become less important?
+
 * You-You Liang, Xue-Fei Yan, Cheng-Jun Wang * (2025) Ups and Downs of Happiness:The Dynamic Effects of Phone and Computer Use on Employee Happiness.
 
 
@@ -97,6 +100,14 @@ Working Paper
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
+
+Hobbies
+======
+I enjoy playing badminton and am currently learning tennis. In my leisure time I like to watch movies and TV shows.
+
+I also like traveling, shooting travel vlogs, and like to enrich my life with rich experiences.
+
+
 Skills
 ======
 * Python
@@ -106,11 +117,7 @@ Skills
 * Stata
 * Photoshop
 
-Hobbies
-======
-I enjoy playing badminton and am currently learning tennis. In my leisure time I like to watch movies and TV shows.
 
-I also like traveling, shooting travel vlogs, and like to enrich my life with rich experiences.
 
 <!-- Publications
 ======
