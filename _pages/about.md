@@ -43,11 +43,12 @@ How to edit your site's GitHub repository
 ------
 <!-- Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.  -->
 
-Liang Youyou is currently a master student  in the School of Journalism and Communication, Nanjing University, under the supervision of Dr. Cheng-Jun Wang. Her research interests is to explore the bibliometric characteristics of communication. She uses various computational methods (such as network analysis, text mining, word embedding models, and citation analysis) to examine the innovative development of communication and the position of the discipline in the scientific field.
+I am a master's student at the School of Journalism and Communication at Nanjing University, under the supervision of Professor Wang Chengjun. My research interest lies in exploring the bibliometric characteristics of communication studies. I am skilled in using various computational methods (such as network analysis, text mining, word embedding models, and citation analysis) to study the innovative development of communication studies and its position in the scientific field.
 
 <div style="text-align: center;">
   <img src="/images/meme.png" alt="Meme" style="max-width: 55%; height: auto;">
 </div>
+
 
 
 Education
@@ -64,6 +65,7 @@ Awards
 * Excellent League Member (2023)
 * National Encouragement scholarship (2022)
 * People's scholarship (2021)
+
 
 
 Work experience
@@ -103,9 +105,9 @@ Working Paper
 
 Hobbies
 ======
-I enjoy playing badminton and am currently learning tennis. In my leisure time I like to watch movies and TV shows.
+I enjoy playing badminton and am currently learning tennis. In my leisure time I like to watch movies and TV shows, and playing with cats and dogs.
 
-I also like traveling, shooting travel vlogs, and like to enrich my life with rich experiences.
+I also enjoy traveling, filming travel vlogs, and filling my life with rich experiences.
 
 
 Skills
