@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "中文CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,77 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-You-You Liang
+梁悠悠
 ======
-* Liang Youyou is currently a master student  in the School of Journalism and Communication, Nanjing University, under the supervision of Dr. Cheng-Jun Wang. Her research interests lie in the intersection of bibliometrics and communication. She uses various computational methods (such as network analysis, text mining, word embedding models, and citation analysis) to examine the innovative development of communication and the position of the discipline in the scientific field.
+我是南京大学新闻与传播学院硕士研究生，师从王成军教授。我的研究兴趣是探索传播学的文献计量特征。我擅长使用各种计算方法（如网络分析、文本挖掘、词嵌入模型和引文分析）来研究传播学的创新发展以及该学科在科学领域中的地位。
 
-Education
+教育经历
 ======
-* M.A. in School of Journalism & Communication, Nanjing University, 2024-2027
-* B.A. in School of Journalism & Communication, Nanjing University, 2020-2024
+南京大学新闻与传播学院硕士，2024-2027年
+南京大学新闻与传播学院本科，2020-2024年
 
-Awards
+关于我
 ======
-* Outstanding Graduates (2024)
-* National Encouragement scholarship (2023)
-* Excellent League Member (2023)
-* National Encouragement scholarship (2022)
-* People's scholarship (2021)
+在专业学习上，我充分锻炼了数据分析能力，能够运用Python、R进行网络分析、机器学习、文本数据分析等开展科研工作。我平时也自学了SQL。我热衷于发现数据背后掩藏的规律和现象。
 
+在性格方面，我开朗随和。做事细心、负责、抗压能力强，能多线推进任务。
 
-Work experience
+工作经验
 ======
-* 2024: Trip.com Group Ltd
-  * Duties: Integrated Marketing
+* 2024: 携程用车业务部 整合营销
+  * 工作职责: 参与6期IP活动、节点大促的内容策划，持续运营6个社媒的包车游官方账号，定期分析商家社区运营数据和对商培训数据，分析和分享优秀案例。
 
-* 2022: Jiangsu Broadcasting Corporation
-  * Duties: Intern reporter
+* 2022: 江苏广电我苏网、四川画报 实习记者
+  * 工作职责: 具备良好的信息敏锐度，文字写作与编辑水平，多篇推送达到1w+的阅读量，策划完成了10余个动态海报。
 
+、
+兴趣爱好
+======
+我喜欢打羽毛球，目前正在学习网球。在休闲时间我喜欢看影视作品，撸猫猫狗狗。
 
-<!-- Awards
-======
-* Outstanding Graduates (2024)
-* National Encouragement scholarship (2023)
-* Excellent League Member (2023)
-* National Encouragement scholarship (2022)
-* People's scholarship (2021) -->
+我也喜欢旅游，拍摄旅游vlog，擅长在生活中发现有趣的闪光点，喜欢用丰富的经历充实我的生活。
 
-Working Papers
-======
-* Youyou Liang, Lihan Yan, Cheng-Jun Wang * (2024) Will Novelty Disrupt or Extend Communication Research? An Innovation Analysis of Web of Science Papers from 1970-2020
+我学过书法、吉他、素描（然而逐渐荒废了......）
 
-
-<!-- * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
-  
-Skills
-======
-* Python
-* Sql
-* Excel
-* R
-* Photoshop
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+<!-- 
+For more info
+------
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. --> 
