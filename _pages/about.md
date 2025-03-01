@@ -45,6 +45,9 @@ How to edit your site's GitHub repository
 
 Liang Youyou is currently a master student  in the School of Journalism and Communication, Nanjing University, under the supervision of Dr. Cheng-Jun Wang. Her research interests is to explore the bibliometric characteristics of communication. She uses various computational methods (such as network analysis, text mining, word embedding models, and citation analysis) to examine the innovative development of communication and the position of the discipline in the scientific field.
 
+<div style="text-align: center;">
+  <img src="/images/meme.png" alt="Meme" style="max-width: 50%; height: auto;">
+</div>
 
 Education
 ======
@@ -102,6 +105,12 @@ Skills
 * R
 * Stata
 * Photoshop
+
+Hobbies
+======
+I enjoy playing badminton and am currently learning tennis. In my leisure time I like to watch movies and TV shows.
+
+I also like traveling, shooting travel vlogs, and like to enrich my life with rich experiences.
 
 <!-- Publications
 ======
